@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use the NJB IVF Lab in teaching or research, please cite it as below."
 title: "NJB IVF Lab: From Gametes to Birth Simulator"
-abstract: "A teaching and research simulation that follows one pregnancy from egg and sperm through the IVF laboratory to birth, on one master clock from day 0 to week 40: microscope, time-lapse incubator, ultrasound, lab console, test lab and embryo mixer. Parameters are tied to published research (53 references, 51 evidence-graded parameters). Outputs are population estimates, not medical advice."
+abstract: "A teaching and research simulation that follows one pregnancy from egg and sperm through the IVF laboratory to birth, on one master clock from day 0 to week 40: microscope, time-lapse incubator, ultrasound, lab console, test lab and embryo mixer. Every parameter is tied to published research and carries an evidence grade. Outputs are population estimates, not medical advice."
 authors:
   - family-names: Berky
     given-names: "Nathaniel Jonathan"
