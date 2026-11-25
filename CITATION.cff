@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use the NJB IVF Lab in teaching or research, please cite it as below."
+title: "NJB IVF Lab: From Gametes to Birth Simulator"
+abstract: "A teaching and research simulation that follows one pregnancy from egg and sperm through the IVF laboratory to birth, on one master clock from day 0 to week 40: microscope, time-lapse incubator, ultrasound, lab console, test lab and embryo mixer. Parameters are tied to published research (53 references, 51 evidence-graded parameters). Outputs are population estimates, not medical advice."
+authors:
+  - family-names: Berky
+    given-names: "Nathaniel Jonathan"
+    alias: "N.J. Berky"
+    orcid: "https://orcid.org/0009-0001-2227-215X"
+    website: "https://njb-berky.com/"
+version: "0.5.0"
+date-released: 2026-11-25
+url: "https://ivf-lab.njb-berky.com/"
+repository-artifact: "https://ivf-lab.njb-berky.com/"
+keywords:
+  - IVF
+  - embryology
+  - ICSI
+  - time-lapse
+  - blastocyst grading
+  - PGT-A
+  - prenatal testing
+  - reproductive medicine
+  - medical education
+type: software
