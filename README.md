@@ -4,7 +4,7 @@
 
 A teaching and research simulation that follows one pregnancy from egg and sperm, through the IVF laboratory, to birth. Built for embryology and medical students, clinic teams and researchers. One master clock runs from day 0 (the first day of the last period) to week 40, and every panel reads the same clock: the microscope, the time-lapse incubator, the ultrasound screen, the hormone curves, the chromosomes and the lab console.
 
-Every value is a population median or a consensus timing with its source. The Lab ships with **53 references** and an evidence grade for each of its **51 parameters** (A 28 · B 10 · C 3 · D 10). Where no verified source exists, the value is a model setting marked grade D, or nothing is drawn.
+Every value is a population median or a consensus timing with its source, and every parameter carries an evidence grade (A to D). Where no verified source exists, the value is a model setting marked grade D, or nothing is drawn.
 
 > Not medical advice. Values are population estimates and the ultrasound image is generated, not a patient scan. The Lab does not describe, assess or predict any real patient, embryo or pregnancy.
 
@@ -15,8 +15,8 @@ Every value is a population median or a consensus timing with its source. The La
 - **Two paths on one clock:** natural conception, or IVF / ICSI with stimulation and egg retrieval, ICSI, a time-lapse incubator, blastocyst grading, optional PGT-A, single embryo transfer and beta-hCG.
 - **Microscope and development atlas:** gametes, fertilisation, the first cell divisions and the blastocyst, then every Carnegie stage and every fetal week. Click a stage and the whole Lab jumps there.
 - **Baby monitor:** the simulated baby on a live ultrasound screen from the first heartbeat to birth, with sizes, heart rate and movement from the sources, and a heartbeat you can listen to.
-- **Lab console:** every instrument live at the current day (embryo lab, mother, baby, genetics, alerts), plus a catalogue of 26 things you can see, test and monitor, each a window on the timeline.
-- **Test lab:** 13 real prenatal and fertility tests (hCG, dating scan, nuchal translucency, NIPT, CVS, amniocentesis, anatomy scan, glucose tolerance test, growth scan, CTG, blood group, semen analysis and more) that you can run at any week. Results stay on the timeline.
+- **Lab console:** every instrument live at the current day (embryo lab, mother, baby, genetics, alerts), plus a catalogue of everything you can see, test and monitor, each a window on the timeline.
+- **Test lab:** real prenatal and fertility tests (hCG, dating scan, nuchal translucency, NIPT, CVS, amniocentesis, anatomy scan, glucose tolerance test, growth scan, CTG, blood group, semen analysis and more) that you can run at any week. Results stay on the timeline.
 - **Embryo mixer:** combine two parents and see what each simulated embryo carries: chromosomes by maternal age, Mendelian conditions and blood group.
 - **Ask the Lab:** questions about the current moment, answered from the built-in lab model at a plain or expert level, with every number taken from Methods.
 - **Lab log and reports:** every action is logged with time and gestational day; sessions can be saved and loaded, recorded, and exported as CSV, JSON or a PDF lab report.
@@ -64,7 +64,7 @@ Chromosomal sex is shown as biology only and cannot be chosen in the Lab. Sex se
 - Wilcox AJ, Baird DD, Weinberg CR. Time of implantation of the conceptus and loss of pregnancy. *N Engl J Med* 1999;340(23):1796-9. doi:10.1056/NEJM199906103402304
 - Papageorghiou AT et al. International standards for fetal growth (INTERGROWTH-21st). *Lancet* 2014;384(9946):869-79. doi:10.1016/S0140-6736(14)61490-2
 
-The full list of 53 references, with the value, range, source and evidence grade of every parameter, is in the Lab under **Methods**.
+The full reference list, with the value, range, source and evidence grade of every parameter, is in the Lab under **Methods**.
 
 ## How it is built
 
